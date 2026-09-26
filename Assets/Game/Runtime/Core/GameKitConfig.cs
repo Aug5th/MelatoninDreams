@@ -15,7 +15,7 @@ namespace GameKit
         /// Set it to your real gameplay scene name (remember to add it to Build Settings)
         /// and the Play button will load that scene through SceneLoader.
         /// </summary>
-        public const string GameSceneName = "";
+        public const string GameSceneName = "GameScene";
 
         public const string GameTitle = "GAME TITLE";
         public const string GameSubtitle = "a game jam prototype";
